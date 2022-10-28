@@ -1,0 +1,7 @@
+red 1 #f00
+orange 2 #fa7a02
+yellow 3 #e5fa02
+green 4 #02fa0b
+light blue 5 #02ddfa
+blue 6 #1702fa
+purple 7 #9b02fa
